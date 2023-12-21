@@ -1,0 +1,13 @@
+Koka-Kola,2.50
+Fanta,2.50
+Kafa,1.40
+Kafa sa mlijekom,1.60
+Nes,2.00
+Jana narandža,2.00
+Jana limun,2.00
+Jana plava,2.00
+Čaj,1.40
+Plazma šejk,2.00
+Jelen,2.50
+Nikšičko,2.50
+Stella Artois,3.50
